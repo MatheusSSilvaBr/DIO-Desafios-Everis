@@ -9,6 +9,11 @@ namespace Bank.Conta
     
     private float numero {get; set; };
     
-    
+    public class Conta(string titular, double saldo, float numero)
+    {
+      this.Titular = titular;
+      this.Saldo = saldo;
+      this.Numero = numero;
+    }
   }
 }
