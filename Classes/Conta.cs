@@ -3,8 +3,12 @@ namespace Bank.Conta
 {
   public class Conta
   {
-    private string nome { get; set; };
+    private string titular { get; set; };
+    
     private double saldo {get; set; };
+    
+    private float numero {get; set; };
+    
     
   }
 }
