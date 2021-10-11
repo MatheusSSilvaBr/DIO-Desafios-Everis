@@ -3,7 +3,7 @@ using System;
 namespace TEDBank
 
 {
-  public class Conta : EntidadeBase
+  public class Conta
   {
     private TipoConta TipoConta { get; set; }
 
@@ -11,18 +11,14 @@ namespace TEDBank
     
     private double Saldo {get; set; }
     
-    public double Credito { get; set; }
+    public double Credito { get; set; }   
     
-    private float Numero {get; set; }
-    
-    public Conta(TipoConta TipoConta, int id, string titular, double saldo, float numero, double credito)
+    public Conta(TipoConta tipoconta, string titular, double saldo, double credito)
     {
-      this.Id = id;
       this.Titular = titular;
       this.Saldo = saldo;
-      this.Numero = numero;
       this.Credito = credito;
-      this.TipoConta = TipoConta;
+      this.TipoConta = tipoconta;
     }
 
     public bool Sacar(double valorSaque)
@@ -32,7 +28,7 @@ namespace TEDBank
           Console.WriteLine("Saldo Insuficiente!");
           return false;
         }
-        this.saldo -= valorSaque;
+        this.Saldo -= valorSaque;
 
         Console.WriteLine("O saldo atual de sua conta {0} é {1}.", this.Titular, this.Saldo);
         return true;
@@ -55,5 +51,14 @@ namespace TEDBank
       Console.WriteLine("Seu saldo é insuficiente");
     }
 
+    public override string ToString()
+        {
+            string retorno = "";
+            retorno += "Titular: " + this.Titular + " | "; 
+            retorno += "TipoConta: " + this.TipoConta + " | ";
+            retorno += "Saldo: " + this.Saldo + " | ";
+            retorno += "Crédito: " + this.Credito;
+            return retorno;
+        }
   }
 }

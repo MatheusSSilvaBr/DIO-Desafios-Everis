@@ -8,3 +8,19 @@ C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank\obj\Debug\net5.0\TEDBank.G
 C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank\obj\Debug\net5.0\TEDBank.AssemblyInfoInputs.cache
 C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank\obj\Debug\net5.0\TEDBank.AssemblyInfo.cs
 C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank\obj\Debug\net5.0\TEDBank.csproj.CoreCompileInputs.cache
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.csproj.AssemblyReference.cache
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.AssemblyInfoInputs.cache
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.AssemblyInfo.cs
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.csproj.CoreCompileInputs.cache
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\bin\Debug\net5.0\TEDBank.exe
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\bin\Debug\net5.0\TEDBank.deps.json
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\bin\Debug\net5.0\TEDBank.runtimeconfig.json
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\bin\Debug\net5.0\TEDBank.runtimeconfig.dev.json
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\bin\Debug\net5.0\TEDBank.dll
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\bin\Debug\net5.0\ref\TEDBank.dll
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\bin\Debug\net5.0\TEDBank.pdb
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.dll
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\ref\TEDBank.dll
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.pdb
+C:\Users\TI Eurodata Macaé\Downloads\n\DIO-Desafios-Everis\TEDBank\obj\Debug\net5.0\TEDBank.genruntimeconfig.cache

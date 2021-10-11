@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Documents\\Dev\\Git\\Dio.Everis\\TEDBank\\TEDBank.csproj": {}
+    "C:\\Users\\TI Eurodata Macaé\\Downloads\\n\\DIO-Desafios-Everis\\TEDBank\\TEDBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Documents\\Dev\\Git\\Dio.Everis\\TEDBank\\TEDBank.csproj": {
+    "C:\\Users\\TI Eurodata Macaé\\Downloads\\n\\DIO-Desafios-Everis\\TEDBank\\TEDBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Dev\\Git\\Dio.Everis\\TEDBank\\TEDBank.csproj",
+        "projectUniqueName": "C:\\Users\\TI Eurodata Macaé\\Downloads\\n\\DIO-Desafios-Everis\\TEDBank\\TEDBank.csproj",
         "projectName": "TEDBank",
-        "projectPath": "C:\\Users\\Matheus\\Documents\\Dev\\Git\\Dio.Everis\\TEDBank\\TEDBank.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Documents\\Dev\\Git\\Dio.Everis\\TEDBank\\obj\\",
+        "projectPath": "C:\\Users\\TI Eurodata Macaé\\Downloads\\n\\DIO-Desafios-Everis\\TEDBank\\TEDBank.csproj",
+        "packagesPath": "C:\\Users\\TI Eurodata Macaé\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TI Eurodata Macaé\\Downloads\\n\\DIO-Desafios-Everis\\TEDBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\TI Eurodata Macaé\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
