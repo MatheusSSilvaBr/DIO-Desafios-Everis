@@ -1,0 +1,5 @@
+C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank.Console\obj\Debug\net5.0\TEDBank.Console.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank.Console\obj\Debug\net5.0\TEDBank.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank.Console\obj\Debug\net5.0\TEDBank.Console.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank.Console\obj\Debug\net5.0\TEDBank.Console.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Dev\Git\Dio.Everis\TEDBank.Console\obj\Debug\net5.0\TEDBank.Console.csproj.CoreCompileInputs.cache
